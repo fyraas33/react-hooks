@@ -56,3 +56,15 @@
 .number{
   width: 50px;
 }
+.navbar{
+  height: 50px;
+}
+.navlist{
+  display: flex;
+  justify-content: space-around;
+  margin-left: 10px;
+}
+li{
+  padding: 20px;
+  font-size: 20px;
+}
